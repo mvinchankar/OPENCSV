@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 import java.util.Iterator;
 
 public class OpenCSVReadAndParseToBean {
-    private static final String SAMPLE_CSV_FILE_PATH = "./users-with-header.csv";
+    private static final String SAMPLE_CSV_FILE_PATH = "/home/slot1/IdeaProjects/OpenCSV/src/main/java/com/bridgelabz/users.csv";
 
     public static void main(String[] args) throws IOException {
         try (
